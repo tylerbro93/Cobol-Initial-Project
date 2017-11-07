@@ -1,0 +1,21 @@
+
+17/09/2015     TSB          Drakea Cart Parts Warehouse                PAGE 01 
+
+
+                                    STOCK REPORT                               
+
+ CAT           ITEM           PURCHASE   QUANTITY    QUANTITY    REORDER       
+ NUM        DESCRIPTION        PRICE      IN STK     ON ORDER     POINT        
+                                                                               
+X7Y10   Gas Tank               $125.95    001.00      010.00     050.00        
+X8Y20   Gas Cap                $075.99    001.00      000.00     025.00        
+X6N30   Seat                   $500.00    000.00      000.00     002.00        
+Y9T40   Spark Plugs            $025.95    001.00      020.00     180.00        
+T8N50   Helmet                 $003.85    000.00      005.00     000.00        
+S9M60   Slick 50               $059.99    000.00      002.00     010.00        
+J9M70   Gear Box               $999.99    500.00      070.00     000.00        
+K3L80   Muffler                $350.95    000.00      100.00     002.00        
+L3D90   Seat Belts             $029.95    000.00      200.00     000.00        
+M3100   Tool Box               $259.95    002.00      150.00     250.00        
+D4110   Carborator             $059.00    501.00      005.00     075.00        
+S8120   Generator              $177.00    000.00      002.00     015.00        
